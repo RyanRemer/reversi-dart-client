@@ -1,5 +1,4 @@
-﻿# reversi-dart-client
-# dart-reversi
+# reversi-dart-client
  Runing the program has two options
   1. `dart ./main.dart host playerNumber aiType(random)`
   2. `./main.exe host playerNumber aiType(random)` 
